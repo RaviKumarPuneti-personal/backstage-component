@@ -7,6 +7,6 @@ metadata:
     github.com/project-slug: RaviKumarPuneti-personal/backstage-component
 spec:
   type: service
-  owner: team-a
+  owner: default/guests
   lifecycle: experimental
   dependsOn: ['component:example-website']
